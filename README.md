@@ -4,6 +4,8 @@
 
 Inspired by getting over it, help this little robot get to the top of a mountain with their handy rocket launcher.
 
+---
+
 ## Project Description
 This project was developed for the course 2D Design at Universidad Rey Juan Carlos. The main objective was to apply basic knowledge in design and unity to create a simple game.
 
