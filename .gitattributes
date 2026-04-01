@@ -13,3 +13,7 @@
 *.unitypackage filter=lfs diff=lfs merge=lfs -text
 *.aseprite filter=lfs diff=lfs merge=lfs -text
 Build/** linguist-generated=true
+Packages/** linguist-generated=true
+Assets/Plugins/** linguist-generated=true
+*.csproj linguist-generated=true
+*.sln linguist-generated=true
