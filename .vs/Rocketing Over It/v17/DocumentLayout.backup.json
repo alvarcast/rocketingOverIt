@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvar\\Rocketing Over It\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|C:\\Users\\alvar\\Rocketing Over It\\assets\\scripts\\camerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|C:\\Users\\alvar\\Rocketing Over It\\assets\\scripts\\crownscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crownscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|c:\\users\\alvar\\rocketing over it\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|C:\\Users\\alvar\\Rocketing Over It\\assets\\scripts\\backgroundscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|C:\\Users\\alvar\\Rocketing Over It\\assets\\scripts\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|C:\\Users\\alvar\\Rocketing Over It\\assets\\scripts\\icescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\icescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|C:\\Users\\alvar\\Rocketing Over It\\assets\\scripts\\missilescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\missilescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|C:\\Users\\alvar\\Rocketing Over It\\assets\\scripts\\springscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\springscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|C:\\Users\\alvar\\Rocketing Over It\\assets\\scripts\\explosionscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\explosionscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|C:\\Users\\alvar\\Rocketing Over It\\assets\\scripts\\rocketlauncherscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AB938-61D9-1B6E-AB7D-E07747BD43F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rocketlauncherscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraScript.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\CameraScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraScript.cs",
+              "ToolTip": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\CameraScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:57:10.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenuScript.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\MainMenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuScript.cs",
+              "ToolTip": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\MainMenuScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuScript.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:11:43.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrownScript.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\CrownScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CrownScript.cs",
+              "ToolTip": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\CrownScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CrownScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:25:40.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpringScript.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\SpringScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpringScript.cs",
+              "ToolTip": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\SpringScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpringScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T14:40:17.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IceScript.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\IceScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IceScript.cs",
+              "ToolTip": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\IceScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IceScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:53:47.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BackgroundScript.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\BackgroundScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundScript.cs",
+              "ToolTip": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\BackgroundScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T00:25:22.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAqwK0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T00:20:35.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RocketLauncherScript.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\RocketLauncherScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RocketLauncherScript.cs",
+              "ToolTip": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\RocketLauncherScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RocketLauncherScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T00:21:10.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExplosionScript.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\ExplosionScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExplosionScript.cs",
+              "ToolTip": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\ExplosionScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExplosionScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T00:21:07.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MissileScript.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\MissileScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MissileScript.cs",
+              "ToolTip": "C:\\Users\\alvar\\Rocketing Over It\\Assets\\Scripts\\MissileScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MissileScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T00:21:04.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
