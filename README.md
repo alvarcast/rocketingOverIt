@@ -46,7 +46,6 @@ You can also open the code with Visual Studio executing the "Rocketing Over It.s
 | Action | Key / Input |
 | :--- | :--- |
 | Movement | W, A, S, D |
-| Jump | Spacebar |
 | Shoot | Mouse Click |
 | Pause Menu | Esc |
 
